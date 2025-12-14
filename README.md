@@ -329,9 +329,9 @@ MNE-Python: https://mne.tools/
 TensorFlow: https://www.tensorflow.org/
 Scikit-learn: https://scikit-learn.org/
 👥 Contributors
-Author: [Your Name]
-Course: [Course Name]
-University: [University Name]
+Author: Mahmoud Ali
+Course: Intelligent system
+University: E-JUST\
 Date: November 2025
 
 📄 License
@@ -342,19 +342,5 @@ PhysioNet for providing the EEG dataset
 BCI2000 team for data collection
 MNE-Python developers for excellent EEG processing tools
 TensorFlow team for the deep learning framework
-📞 Support
-For questions or issues:
 
-Check the troubleshooting section above
-Review notebook comments and documentation
-Consult MNE and TensorFlow documentation
-Contact course instructor or TA
-🎉 Project Status
-✅ Complete and Ready for Submission
-
-This project provides a fully functional, well-documented implementation of EEG-based person identification using state-of-the-art deep learning techniques.
-
-Good luck with your submission! 🚀
-
-Last Updated: November 22, 2025
 
